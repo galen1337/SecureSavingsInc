@@ -1,0 +1,14 @@
+C:\Users\hse'\Desktop\SecureSavingsInc\SecureSavingsInc\bin\Debug\net8.0\SecureSavingsInc.exe
+C:\Users\hse'\Desktop\SecureSavingsInc\SecureSavingsInc\bin\Debug\net8.0\SecureSavingsInc.deps.json
+C:\Users\hse'\Desktop\SecureSavingsInc\SecureSavingsInc\bin\Debug\net8.0\SecureSavingsInc.runtimeconfig.json
+C:\Users\hse'\Desktop\SecureSavingsInc\SecureSavingsInc\bin\Debug\net8.0\SecureSavingsInc.dll
+C:\Users\hse'\Desktop\SecureSavingsInc\SecureSavingsInc\bin\Debug\net8.0\SecureSavingsInc.pdb
+C:\Users\hse'\Desktop\SecureSavingsInc\SecureSavingsInc\obj\Debug\net8.0\SecureSavingsInc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hse'\Desktop\SecureSavingsInc\SecureSavingsInc\obj\Debug\net8.0\SecureSavingsInc.AssemblyInfoInputs.cache
+C:\Users\hse'\Desktop\SecureSavingsInc\SecureSavingsInc\obj\Debug\net8.0\SecureSavingsInc.AssemblyInfo.cs
+C:\Users\hse'\Desktop\SecureSavingsInc\SecureSavingsInc\obj\Debug\net8.0\SecureSavingsInc.csproj.CoreCompileInputs.cache
+C:\Users\hse'\Desktop\SecureSavingsInc\SecureSavingsInc\obj\Debug\net8.0\SecureSavingsInc.dll
+C:\Users\hse'\Desktop\SecureSavingsInc\SecureSavingsInc\obj\Debug\net8.0\refint\SecureSavingsInc.dll
+C:\Users\hse'\Desktop\SecureSavingsInc\SecureSavingsInc\obj\Debug\net8.0\SecureSavingsInc.pdb
+C:\Users\hse'\Desktop\SecureSavingsInc\SecureSavingsInc\obj\Debug\net8.0\SecureSavingsInc.genruntimeconfig.cache
+C:\Users\hse'\Desktop\SecureSavingsInc\SecureSavingsInc\obj\Debug\net8.0\ref\SecureSavingsInc.dll
